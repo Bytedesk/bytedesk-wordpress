@@ -2,7 +2,7 @@
  * @Author: jackning 270580156@qq.com
  * @Date: 2025-01-22 11:03:48
  * @LastEditors: jackning 270580156@qq.com
- * @LastEditTime: 2025-01-22 11:23:10
+ * @LastEditTime: 2025-01-22 11:24:14
  * @Description: bytedesk.com https://github.com/Bytedesk/bytedesk
  *   Please be aware of the BSL license restrictions before installing Bytedesk IM – 
  *  selling, reselling, or hosting Bytedesk IM as a service is a breach of the terms and automatically terminates your rights under the license. 
@@ -41,7 +41,7 @@ Easily add ByteDesk live chat widget to your WordPress website.
 For more details, please visit:
 
 * [English Documentation](https://www.bytedesk.com/docs/)
-* [中文文档](https://www.bytedesk.com/docs/zh)
+* [中文文档](https://www.bytedesk.com/docs/zh-CN/)
 
 ## Support
 
