@@ -7,54 +7,54 @@ Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-在WordPress网站轻松添加ByteDesk在线客服聊天窗口。
+Easily add ByteDesk live chat widget to your WordPress website.
 
 == Description ==
 
-ByteDesk Live Chat插件让您能够轻松地在WordPress网站中集成ByteDesk在线客服系统。主要特点：
+ByteDesk Live Chat plugin allows you to seamlessly integrate ByteDesk customer service system into your WordPress website. Main features:
 
-* 简单配置，快速使用
-* 支持自定义窗口位置
-* 支持自定义主题颜色
-* 支持自定义气泡显示
-* 支持自定义邀请框
-* 响应式设计，适配各种设备
-* 与ByteDesk平台无缝集成
+* Simple configuration, quick setup
+* Customizable window position
+* Customizable theme colors
+* Customizable bubble display
+* Customizable invitation box
+* Responsive design for all devices
+* Seamless integration with ByteDesk platform
 
 == Installation ==
 
-1. 上传插件文件到 `/wp-content/plugins/` 目录
-2. 在WordPress后台启用插件
-3. 进入 "ByteDesk聊天" 设置页面
-4. 配置您的ByteDesk账户信息和显示选项
-5. 保存设置
+1. Upload plugin files to `/wp-content/plugins/` directory
+2. Activate the plugin in WordPress admin
+3. Go to "ByteDesk Chat" settings page
+4. Configure your ByteDesk account information and display options
+5. Save settings
 
 == Frequently Asked Questions ==
 
-= 如何获取企业ID和工作组ID？ =
+= How to get Enterprise ID and Workgroup ID? =
 
-登录ByteDesk后台，在设置中可以找到企业ID(org)和工作组ID(sid)。
+Log in to ByteDesk admin panel, you can find Enterprise ID (org) and Workgroup ID (sid) in settings.
 
-= 如何自定义聊天窗口的样式？ =
+= How to customize chat window style? =
 
-在插件设置页面中，您可以：
-* 选择窗口位置（左下角或右下角）
-* 设置窗口宽度
-* 自定义主题颜色
-* 设置气泡显示内容
-* 配置邀请框文本
+In plugin settings page, you can:
+* Choose window position (bottom-left or bottom-right)
+* Set window width
+* Customize theme colors
+* Configure bubble display
+* Set invitation box text
 
 == Changelog ==
 
 = 1.0.1 =
-* 添加主题设置功能
-* 添加更多自定义选项
-* 优化管理界面
+* Added theme settings
+* Added more customization options
+* Improved admin interface
 
 = 1.0.0 =
-* 初始版本发布
+* Initial release
 
 == Upgrade Notice ==
 
 = 1.0.1 =
-新增主题设置和更多自定义选项，建议升级。 
+New theme settings and more customization options added, upgrade recommended. 
